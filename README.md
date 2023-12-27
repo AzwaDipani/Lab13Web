@@ -20,12 +20,12 @@ Kelas : TI.22.A1
 3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 
 ## Hasil Praktikum
-> **Hasil Output Lab12 :**
+> **Hasil Output Praktikum12 :**
 
 ![img](pictures/Screenshot%20(249).png)
 
 
-> **Hasil Output Lab13web :**
+> **Hasil Output praktikum13 :**
 
 ![img](pictures/Screenshot%20(250).png)
 
